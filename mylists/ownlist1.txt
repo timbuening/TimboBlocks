@@ -7,3 +7,7 @@ de.toomics.com
 www.toomics.de
 www.toomics.com
 www.de.toomics.com
+
+# some strange dude
+lichtmann.de
+www.lichtmann.de
