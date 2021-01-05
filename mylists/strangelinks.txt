@@ -1,5 +1,6 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
 # 05.01.2020
+# If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
 no571.email
