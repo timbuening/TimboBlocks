@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 08.01.2020
+# 13.01.2020
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -47,3 +47,7 @@ verteilerabzumelden.com
 bsin0t85aj477l0cyg02lk3w1lg7l42621ud0850.duckdns.org
 8q8anpsuk3m2dq53f431dkb41qq4zny90j9x2600.duckdns.org
 pstrs-layout.nl
+yourlatestupdate.com
+io.yourlatestupdate.com
+info.citymail.net.pl
+citymail.net.pl
