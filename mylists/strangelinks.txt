@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 13.01.2020
+# 15.01.2020
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -51,3 +51,10 @@ yourlatestupdate.com
 io.yourlatestupdate.com
 info.citymail.net.pl
 citymail.net.pl
+cashmerescarfsupplier.com
+imfieldcashmere.com
+spread26.com
+empfehlung.website
+lumieresbrillantes.com
+noonemill.surf
+zenises.com
