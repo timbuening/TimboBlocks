@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 15.01.2020
+# 18.01.2020
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -59,3 +59,5 @@ lumieresbrillantes.com
 noonemill.surf
 zenises.com
 sno4n0dm0811d31fu0c0ch9sqc13253cei1qsh46.duckdns.org
+egyarbitration.com
+www.egyarbitration.com
