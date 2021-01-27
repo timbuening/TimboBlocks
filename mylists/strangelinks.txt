@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 18.01.2020
+# 27.01.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -68,3 +68,5 @@ mysuitcases.de
 news.mysuitcases.de
 bit.ly 
 w07oorev.online 
+prspctrck.sendify.se
+sparksofttech.com
