@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 27.01.2021
+# 01.02.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -70,3 +70,20 @@ bit.ly
 w07oorev.online 
 prspctrck.sendify.se
 sparksofttech.com
+tudoverde.com
+raiseon.de
+news.raiseon.de
+placespan.de
+heatsense.de
+news.heatsense.de
+oshid.page.link
+page.link
+fztexstar.com
+urwyswx.w08aenoxim.store
+w08aenoxim.store
+io.yourlatestupdate.com
+yourlatestupdate.com
+t01w21e20263c21s011787k58gnkumpcn8z6630s.duckdns.org
+1a-stellenmarkt.de
+nivios.com
+redaktionswerft.de
