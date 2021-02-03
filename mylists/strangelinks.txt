@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 01.02.2021
+# 03.02.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -87,3 +87,14 @@ t01w21e20263c21s011787k58gnkumpcn8z6630s.duckdns.org
 1a-stellenmarkt.de
 nivios.com
 redaktionswerft.de
+www.performanceheroes.de
+performanceheroes.de
+guenther-club.de
+g-direct.de
+s3.interactive-mailing.de
+smoton.com
+messe-pr-service.de
+handels-vertretungen.net
+newsletter.vertriebsnews.net
+vertriebsnews.net
+mimphlotke.imgur.com
