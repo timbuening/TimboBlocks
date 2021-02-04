@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 03.02.2021
+# 04.02.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -123,4 +123,10 @@ mail.l2wqz.com
 l2wqz.com
 mail.kgr9hq.com
 kgr9hq.com
+idokorul.com
+kerken.surf
+optimized-by.rubiconproject.com
+rubiconproject.com
+trk.elasticemail.com
+elasticemail.com
 
