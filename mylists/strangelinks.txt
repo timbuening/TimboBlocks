@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 05.02.2021
+# 07.02.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -133,4 +133,10 @@ tunitedmail.com
 pomeloads.s3.eu-central-1.amazonaws.com
 hoaf.hoeontrack.com
 hoeontrack.com
-
+jaf.acemisair.com
+m4fgc.timesdial.com
+idokorul.com
+www.kivlab.com
+kivlab.com
+www.continental.dn.ua
+continental.dn.ua
