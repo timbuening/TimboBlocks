@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 11.02.2021
+# 15.02.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -149,3 +149,12 @@ uni-electronic.de
 www.uni-electronic.de
 0xd085mrs4b1ttz09q7b0ok2966jhrev20306233.duckdns.org
 energysavingledlighting.com
+frodraz.surf
+files.live.glanzstueck.agency
+live.glanzstueck.agency
+glanzstueck.agency
+eleipleny.surf
+www.gewinnsuche.com
+gewinnsuche.com
+images.maildienstleister.com
+
