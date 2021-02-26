@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 18.02.2021
+# 26.02.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -162,3 +162,15 @@ think-at-all-service.com
 athrignev.surf
 www.nutrilife-shop.de
 nutrilife-shop.de
+addstatic.de
+eisporpen.surf
+flergacts.surf
+link.newstrend.online
+aezbe.stripocdn.email
+newstrend.online
+stripocdn.email
+soboracum.surf
+officestoplifes.us
+journal.unifa.ac.id
+unifa.ac.id
+ac.id
