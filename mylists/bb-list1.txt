@@ -1,0 +1,8 @@
+# Just another Blocklist
+# pls consider not using it, it is very specialized ;) 
+
+estrichbau.de
+estrich5.de
+mk-news.com
+cloud.estrichbau.de
+cloud.estrich5.de
