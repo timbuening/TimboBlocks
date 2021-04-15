@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 04.03.2021
+# 15.04.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -189,3 +189,14 @@ news.watercamp-ep.de
 watercamp-ep.de
 www.abacent.de
 abacent.de
+kamerafurfotos.com
+roeinthim.surf
+ванселонем.рф
+mutebe.surf
+tunitedmail.com
+server777.shared-lvps08.com
+lepkrajsvet.com
+armort.surf
+буростенал.рф
+www.a010mooon.store
+a010mooon.store
