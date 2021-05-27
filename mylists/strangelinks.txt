@@ -1,5 +1,5 @@
 # A list of Links that popup in Spam / phishing mails me or my company receives.
-# 15.04.2021
+# 27.05.2021
 # If you need to contact me, use blocklistreport@timbo.cc 
 promio-connect.com
 www.promio-connect.com
@@ -200,3 +200,7 @@ armort.surf
 буростенал.рф
 www.a010mooon.store
 a010mooon.store
+talwolowense.s3.eu-central-1.amazonaws.com
+link.brownstreet.work
+aezbe.stripocdn.email
+tracking.tigaido.com
